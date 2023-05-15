@@ -1,6 +1,6 @@
 # GNN_combo Repository
 
-This repository contains all the necessary scripts for training and preprocessing the data for a Graph Neural Network (GNN) model. It is designed to handle and process health-related data, specifically from the MIMIC-III dataset, and utilizes BERT for additional preprocessing steps.
+This repository contains all the necessary scripts for training and preprocessing the data for a Variationally Regularized Graph Neural Network (VGNN) model with ClinicalBERT features integrated. It is designed to handle and process EHR, specifically the MIMIC-III dataset, and utilizes features extracted through ClinicalBERT as additional input for the VGNN.
 
 ## Repository Structure
 
