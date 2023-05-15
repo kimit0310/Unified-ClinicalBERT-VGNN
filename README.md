@@ -6,7 +6,7 @@ This repository contains all the necessary scripts for training and preprocessin
 
 Below is a brief overview of the main components of the repository:
 
-'''
+
 GNN_combo/
 ├── model.py
 ├── train_combo.py
@@ -33,7 +33,7 @@ GNN_combo/
 └── train.py
 └── train_BERT.py
 └── train_latest.py
-'''
+
 
 ## Files and Directories
 
