@@ -1,4 +1,4 @@
-# BERT_GNN_combo Repository
+# BERT_GNN_COMBO
 
 This repository contains all the necessary scripts for training and preprocessing the data for a Variationally Regularized Graph Neural Network (VGNN) model[^1] with ClinicalBERT[^2] features integrated. It is designed to handle and process EHR, specifically the MIMIC-III dataset, and utilizes features extracted through ClinicalBERT as additional input for the VGNN.
 
